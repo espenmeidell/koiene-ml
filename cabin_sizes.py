@@ -1,0 +1,2 @@
+def get_cabin_sizes():
+    return {'Agdenes': 10, 'Øvensenget': 8, 'Brygga': 7, 'Flåkoia': 11, 'Fosenkoia': 10, 'Heinfjordstua': 25, 'Hognabu': 6, 'Holmsåkoia': 20, 'Holvassgamma': 8, 'Iglbu': 10, 'Kamtjønnkoia': 6, 'Kåsen': 8, 'Kråklikåten': 4, 'Kvernmovollen': 1, 'Lyngli': 13, 'Lynhøgen': 13, 'Mortenskåten': 2, 'Nicokoia': 8, 'Rindalsløa': 4, 'Selbukåten': 2, 'Sonvasskoia': 8, 'Stabburet': 2, 'Stakkslettsbua': 11, 'Stallen': 0, 'Taagaabu': 6, 'Telin': 9, 'Vekvessætra': 20}
